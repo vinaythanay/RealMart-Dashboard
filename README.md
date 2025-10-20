@@ -22,7 +22,8 @@ The dashboard was built using the following tools and technologies:
 * :link: **Data Modeling** - Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
 * :page_facing_up: **File Format** - .pbix for development and .png for dashboard previews.  
 ### 📈 Dashboard Preview
-![Dashboard Preview]([Dashboard.png](https://github.com/vinaythanay/RealMart-Dashboard/blob/main/Dashboard.png))
+![Dashboard Preview](https://github.com/vinaythanay/RealMart-Dashboard/blob/main/Dashboard.png)
+
 ### 📂 Dataset
 Dataset: `DA Workshop Dataset.xlsx`  
 Source: Provided as part of a Data Analytics Workshop.  
