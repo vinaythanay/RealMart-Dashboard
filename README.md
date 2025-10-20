@@ -14,10 +14,9 @@ It provides insights into sales trends, order quantities, and return rates to su
 - Automated data modeling and **DAX-based measures** to improve reporting efficiency.
 
 ### 🧰 Technologies Used
-![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg) **Power BI** – Data visualization and dashboard creation  
-- ![Excel](https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg) **Microsoft Excel** – Data preprocessing and cleaning  
-- ![DAX](https://static.wikia.nocookie.net/logopedia/images/f/f7/DAX_logo.png) **DAX (Data Analysis Expressions)** – Custom KPIs and calculations    
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="20" /> **Power BI** – Data visualization and dashboard creation  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" width="20" /> **Microsoft Excel** – Data preprocessing and cleaning  
+- <img src="https://static.wikia.nocookie.net/logopedia/images/f/f7/DAX_logo.png" width="35" /> **DAX (Data Analysis Expressions)** – Custom KPIs and calculations  
 ### 📈 Dashboard Preview
 ![Dashboard Preview]([Dash.png](https://github.com/vinaythanay/RealMart-Dashboard/blob/main/Dashboard.png))
 ### 📂 Dataset
