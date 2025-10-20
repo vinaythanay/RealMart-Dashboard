@@ -25,7 +25,7 @@ The dashboard was built using the following tools and technologies:
 ![Dashboard Preview](https://github.com/vinaythanay/RealMart-Dashboard/blob/main/Dashboard.png)
 
 ### 📂 Dataset
-Dataset: `DA Workshop Dataset.xlsx`  
+Dataset: `DA Dataset.xlsx`  
 Source: Provided as part of a Data Analytics Workshop.  
 Contains transactional retail data including order details, categories, quantities, and returns.
 
