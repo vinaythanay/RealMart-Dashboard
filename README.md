@@ -14,18 +14,12 @@ It provides insights into sales trends, order quantities, and return rates to su
 - Automated data modeling and **DAX-based measures** to improve reporting efficiency.
 
 ### 🧰 Technologies Used
-- **Power BI** for data visualization  
-- **Microsoft Excel** for data source  
-- **DAX (Data Analysis Expressions)** for calculated KPIs  
+![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg) **Power BI** – Data visualization and dashboard creation  
+- ![Excel](https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg) **Microsoft Excel** – Data preprocessing and cleaning  
+- ![DAX](https://static.wikia.nocookie.net/logopedia/images/f/f7/DAX_logo.png) **DAX (Data Analysis Expressions)** – Custom KPIs and calculations    
 
 ### 📈 Dashboard Preview
-![Dashboard Preview](Dash.png)
-*(Upload a screenshot named `image.png` in your repo folder.)*
-
-### 🔗 Live Dashboard
-[View Interactive Dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiYOUR_LINK_HERE)  
-*(If you don’t have a public Power BI link, you can skip this section or add “Available upon request.”)*
-
+![Dashboard Preview]([Dash.png](https://github.com/vinaythanay/RealMart-Dashboard/blob/main/Dashboard.png))
 ### 📂 Dataset
 Dataset: `DA Workshop Dataset.xlsx`  
 Source: Provided as part of a Data Analytics Workshop.  
@@ -40,5 +34,5 @@ Contains transactional retail data including order details, categories, quantiti
 
 ### 🧑‍💻 Author
 **Vinay Kumar**  
-📧 [your.email@example.com](mailto:your.email@example.com)  
-🔗 [LinkedIn Profile](https://linkedin.com/in/your-profile)
+📧 [your.email@example.com](mailto:agathamudivinaykumar@gmail.com)  
+🔗 [LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/agathamudi-vinay-kumar-0677a4235/))
