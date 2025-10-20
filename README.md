@@ -22,7 +22,7 @@ The dashboard was built using the following tools and technologies:
 * :link: **Data Modeling** - Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
 * :page_facing_up: **File Format** - .pbix for development and .png for dashboard previews.  
 ### 📈 Dashboard Preview
-![Dashboard Preview]([Dash.png](https://github.com/vinaythanay/RealMart-Dashboard/blob/main/Dashboard.png))
+![Dashboard Preview]((https://github.com/vinaythanay/RealMart-Dashboard/blob/main/Dashboard.png))
 ### 📂 Dataset
 Dataset: `DA Workshop Dataset.xlsx`  
 Source: Provided as part of a Data Analytics Workshop.  
@@ -37,5 +37,5 @@ Contains transactional retail data including order details, categories, quantiti
 
 ### 🧑‍💻 Author
 **Vinay Kumar**  
-📧 [your.email@example.com](mailto:agathamudivinaykumar@gmail.com)  
+📧 [Email](mailto:agathamudivinaykumar@gmail.com)  
 🔗 [LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/agathamudi-vinay-kumar-0677a4235/))
